@@ -6,10 +6,14 @@ THE MAIN OBJECTIVES ARE AS FOLLOWS:
 ![image](https://github.com/user-attachments/assets/eeca6a56-9cc6-4c89-be65-c6c176cb0f1b)
 
 
-The Modular Connectivity Diagram:
+# The Modular Connectivity Diagram:
 
 ![image](https://github.com/user-attachments/assets/6a87647f-df96-4b01-be40-f8ad770a4b24)
 
+
+# The Proposed Work Flow of the Project:
+
+![image](https://github.com/user-attachments/assets/93bc9f86-9bae-4bf5-b05b-29c501343243)
 
 
 
